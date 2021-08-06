@@ -10,7 +10,7 @@ So i have tried to make a complete 2D Platform game with 2 levels and one how to
 - You can jump on the top of enemy to kill them 
 - if You touch the enemy any other way it will take your life points away 
 - You have 3 powerups :
-   - first is speed : in this u will be give anyy speed between 5 to 18 and your normal speed is 8 so its a double edge sword 
+   - first is speed : This powerup will give you any speed between 5 to 18 and your normal speed is 8 so its a double edge sword 
    - second is jump : it will increase your jump power 
    - third is ghost: it will make u invisible to the enemys but not the traps 
  * there are many traps like
