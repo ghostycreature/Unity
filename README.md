@@ -22,3 +22,5 @@ u can find all the scripts in Assets /script folder and u can download this whol
 # download the compleate project on Mediafire
 - Mediafire link:
 - itch.io : https://ghostcreature.itch.io/cubeee
+# How to run this game 
+For all u noobs just download the final.zip file and run the cubee application 
