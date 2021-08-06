@@ -5,14 +5,14 @@ My name is samkit and this is my first git post and also my first game . I have 
 # About This Game
 So i have tried to make a complete 2D Platform game with 2 levels and one how to play level and also a start menu and a boss level with a health system and a score counter and a few animactions i hope u enjoy it !!>.!! 
 
-# features i have in this game 
-- U can shoot bullets 
-- u can jump on the top of enemy to kill them 
-- if u touch the enemy any other way it will take your life points away 
--  u have 3 powerups 
-         - first is speed : in this u will be give anyy speed between 5 to 18 and your normal speed is 8 so its a double edge sword 
-         - second is jump : it will increase your jump power 
-         -third is ghost: it will make u invisible to the enemys but not the traps 
+# features this game have
+- You can shoot bullets 
+- You can jump on the top of enemy to kill them 
+- if You touch the enemy any other way it will take your life points away 
+- You have 3 powerups :
+   - first is speed : in this u will be give anyy speed between 5 to 18 and your normal speed is 8 so its a double edge sword 
+   - second is jump : it will increase your jump power 
+   -third is ghost: it will make u invisible to the enemys but not the traps 
  * there are many traps like
          - spike trap, axe trap , wall traps , lava ball traps , firetraps 
 
