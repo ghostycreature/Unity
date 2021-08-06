@@ -20,7 +20,7 @@ It was my first game so please help me improve and leave good suggestions on wha
 u can find all the scripts in Assets /script folder and u can download this whole project from mediafire also i have link in the end of this readme file or u can play this game on itch.io also 
 
 # download the compleate project on Mediafire
-- Mediafire link:
+- Mediafire link:https://www.mediafire.com/file/miosba671njtpco/cubee.rar/file
 - itch.io : https://ghostcreature.itch.io/cubeee
 # How to run this game 
 For all u noobs just download the final.zip file and run the cubee application 
