@@ -20,5 +20,5 @@ It was my first game so please help me improve and leave good suggestions on wha
 u can find all the scripts in Assets /script folder and u can download this whole project from mediafire also i have link in the end of this readme file or u can play this game on itch.io also 
 
 # download the compleate project on Mediafire
-# Mediafire link:
-# itch.io : https://ghostcreature.itch.io/cubeee
+- Mediafire link:
+- itch.io : https://ghostcreature.itch.io/cubeee
