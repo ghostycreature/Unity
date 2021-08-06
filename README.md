@@ -19,6 +19,6 @@ So i have tried to make a complete 2D Platform game with 2 levels and one how to
 It was my first game so please help me improve and leave good suggestions on what i can do to make it better 
 u can find all the scripts in Assets /script folder and u can download this whole project from mediafire also i have link in the end of this readme file or u can play this game on itch.io also 
 
-
-#Mediafire link:
-#itch.io : https://ghostcreature.itch.io/cubeee
+# download the compleate project on Mediafire
+# Mediafire link:
+# itch.io : https://ghostcreature.itch.io/cubeee
